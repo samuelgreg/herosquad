@@ -7,12 +7,13 @@ Hero Squad
 - Java
 - GIT and GITHUB
 - PostgreSQL
-- IntelliJ
+- Visual Studio
 - 
 ## Complete Setup Instructions
-- Git clone https://github.com/vnjuguna/herosquadtrial.git
+- Git clone https://github.com/samuelgreg/herosquad
 - Open the cloned Code on Vs Code
-- Run with ...
+
+
 ## BDD
 Strength
 - Create Strength
@@ -55,4 +56,4 @@ Delete hero
 No known bugs
 ## Licence information with a copyright and date
 email: ...
-(c) 2023 Violet Version Date 20th May 2023.
+(c) 2023 Sam Version Date 20th May 2023.
